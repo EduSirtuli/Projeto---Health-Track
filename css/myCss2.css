@@ -1,0 +1,65 @@
+.container, .container-fluid{
+	
+	background-color:#B0C4DE;
+}
+
+.row{
+	
+	margin-bottom: 0px;
+	
+}
+
+main, header, footer{
+	background-color: #B0C4DE;
+	padding-top: 10px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom: 20px;
+	font-size: 10px;
+	text-align: center;
+	position: relative;
+    top: 5vh;
+    
+}
+
+h1{
+	font-size: 30px;
+}
+
+
+main>form{
+	padding-top: 20px;
+}
+
+
+@media screen and (min-width: 1920px) {
+
+	main{
+		height: 100vh;
+		background-color:#B0C4DE;
+	}
+}
+
+@media screen and (min-width: 980px) { 
+
+	main{
+		height:100vh; 
+		background-color:#B0C4DE;
+	}
+}
+
+@media screen and (min-width: 520px) { 
+
+	main{
+		height:100vh; 
+		background-color:#B0C4DE;
+	}
+}
+
+@media screen and (min-width: 360px) { 
+
+	main{
+		height:100vh; 
+		background-color:#B0C4DE;
+	}
+}
